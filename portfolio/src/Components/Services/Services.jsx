@@ -38,7 +38,7 @@ const Services = () => {
             detail={"HTML, CSS, Javascript, React-js"}
           />
         </div>
-        <div style={{ top: "19rem", left: "12rem" }}>
+        <div style={{ top: "19rem", left: "14rem" }}>
           <Cards
             emoji={humble}
             heading={"UX/UI"}
